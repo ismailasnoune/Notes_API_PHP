@@ -1,0 +1,1 @@
+This project is a simple API built using PHP and MySQL to facilitate data exchange between applications. It follows RESTful principles, allowing clients to perform CRUD (Create, Read, Update, Delete) operations on resources stored in a MySQL database.
